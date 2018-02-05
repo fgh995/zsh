@@ -1,6 +1,6 @@
-#Zsh
+# Zsh
 
-##Get Zsh
+## Get Zsh
 
 + `npm install zsh_test`
 
